@@ -3,11 +3,7 @@
  * ** UPDATED server CUZ IM DONE!**
  * 
  *   <Group Members>                 Section: 02
- * - Shahenaz Abushanab              Course: CPCS 371
- * - Nora Alghamdi
- * - Layan Saleh
- * - Huda Alsawi
- * - Lehan Hamed
+ *
  * 
  * [NOTES + CHANGES]:
  * i used streams() instead of loops for better effiency 
